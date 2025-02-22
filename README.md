@@ -1,5 +1,5 @@
 ## ℌ𝔦, ℑ'𝔪 𝔄𝔩𝔦𝔫𝔞 ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
-###[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Digital+design+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Digital+design+student)](https://git.io/typing-svg)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
