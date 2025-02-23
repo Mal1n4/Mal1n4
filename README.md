@@ -1,5 +1,8 @@
-## ℌ𝔦, ℑ'𝔪 Ⱥ𝔩𝔦𝔫𝔞
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9ACD32&lines=𝔇𝔦𝔤𝔦𝔱𝔞𝔩+𝔡𝔢𝔰𝔦𝔤𝔫;𝔞𝔫𝔡+𝔪𝔲𝔩𝔱𝔦𝔪𝔢𝔡𝔦𝔞+𝔰𝔱𝔲𝔡𝔢𝔫𝔱&multiline=true)](https://git.io/typing-svg)
+<h2>ℌ𝔦, ℑ'𝔪 Ⱥ𝔩𝔦𝔫𝔞</h2>
+
+<h3><img src="https://github.com/user-attachments/assets/16239f94-a150-4246-b132-f4934a1da1e5" alt="logo TPU" height="20"/> 𝔗𝔬𝔪𝔰𝔨 𝔓𝔬𝔩𝔶𝔱𝔢𝔠𝔥𝔫𝔦𝔠 𝔘𝔫𝔦𝔳𝔢𝔯𝔰𝔦𝔱𝔶</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9ACD32&lines=𝔇𝔦𝔤𝔦𝔱𝔞𝔩+𝔡𝔢𝔰𝔦𝔤𝔫;𝔞𝔫𝔡+𝔪𝔲𝔩𝔱𝔦𝔪𝔢𝔡𝔦𝔞+𝔰𝔱𝔲𝔡𝔢𝔫𝔱&multiline=true&repeat=false)](https://git.io/typing-svg)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
